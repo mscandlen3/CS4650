@@ -9,6 +9,6 @@ Navigate to this file and click on the upper right button titled "Colab" to open
 ## Running the Code
 To run the code, you must be logged in to a Google account. The first cell to run is
 
-- !gsutil cp gs://language_learning_subreddit/2019_SUBREDDITS=learnspanish,spanish.gz gs://language_learning_subreddit/famous.F17.csv gs://language_learning_subreddit/reddit_tagged.csv . -
+    !gsutil cp gs://language_learning_subreddit/2019_SUBREDDITS=learnspanish,spanish.gz gs://language_learning_subreddit/famous.F17.csv gs://language_learning_subreddit/reddit_tagged.csv .
 
 Navigate to this cell and click Runtime -> Run After to run the Notebook.
